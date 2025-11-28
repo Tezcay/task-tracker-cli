@@ -20,8 +20,13 @@ npm -v
 
 ## 项目地址
 
-GitHub 仓库：[task-tracker-cli](https://github.com/Tezcay/task-tracker-cli)
+## 项目页面
 
+## 项目页面
+
+本项目来自 roadmap.sh 的 Task Tracker 练习：
+
+- 项目页面：[Task Tracker – roadmap.sh](https://roadmap.sh/projects/task-tracker)
 ## 安装与运行
 
 1. 克隆或下载本项目代码到本地，例如：
