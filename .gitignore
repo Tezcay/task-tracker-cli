@@ -1,0 +1,8 @@
+# 任务数据文件（运行时生成）
+tasks.json
+
+# Node 依赖目录（如果以后有 package.json / node_modules）
+node_modules/
+
+# 编辑器配置（可选）
+.vscode/
