@@ -23,7 +23,6 @@ npm -v
 本项目来自 roadmap.sh 的 Task Tracker 练习：
 
 - 项目页面：[Task Tracker – roadmap.sh](https://roadmap.sh/projects/task-tracker)
-- 
 
 ## 安装与运行
 
