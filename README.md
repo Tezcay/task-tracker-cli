@@ -18,6 +18,10 @@ npm -v
 
 ---
 
+## 项目地址
+
+GitHub 仓库：[task-tracker-cli](https://github.com/Tezcay/task-tracker-cli)
+
 ## 安装与运行
 
 1. 克隆或下载本项目代码到本地，例如：
